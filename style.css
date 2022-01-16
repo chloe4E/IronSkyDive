@@ -78,6 +78,11 @@ h5{
   font-size: 2em;
 }
 
+.nav-bar-ul{
+  width: 1200px;
+  margin: 0 auto
+}
+
 .header {
   background-image: url("https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg");
   height: 650px;

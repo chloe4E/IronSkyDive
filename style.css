@@ -66,7 +66,9 @@ h4{
 }
 h5{
   size: 1.2em;
-  line-height: 1em
+  line-height: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .nav-bar {
@@ -177,11 +179,18 @@ width: 40%;
 .footer{
   font-size: 1.9em;
   text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-bottom: 25px;
+
 }
 
 .address{
   font-style: normal;
   font-size: 0.8em;
+  margin-bottom: 30px;
 }
 
 .footer a {
@@ -193,6 +202,8 @@ width: 40%;
 .footer ul {
   /* styles to be added here */
   list-style: none;
+  text-align: center;
+  padding: 0;
 }
 
 .container{
@@ -208,5 +219,10 @@ width: 40%;
 
 .schedule-table th,td{
   border-bottom: solid 1px black;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
 }
 

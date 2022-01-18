@@ -92,6 +92,7 @@ h5{
 .header {
   background-image: url("https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg");
   height: 650px;
+  padding-top: 50px;
 }
 
 .quote{
@@ -164,4 +165,10 @@ h5{
 .footer ul {
   /* styles to be added here */
   list-style: none;
+}
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 75px 0;
 }

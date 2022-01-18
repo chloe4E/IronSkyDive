@@ -200,3 +200,13 @@ width: 40%;
   margin: 0 auto;
   padding-top: 75px 0;
 }
+
+.schedule-table{
+  margin: 0 auto 40ox auto;
+  font-size: 1.5em;
+}
+
+.schedule-table th,td{
+  border-bottom: solid 1px black;
+}
+

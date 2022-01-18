@@ -8,7 +8,8 @@
     margin: 0;
 }
 #team {
-    margin: 0;
+  margin: 0 auto;
+  padding: 75px 0;
 }
 #schedule {
     margin: 0;
@@ -159,6 +160,19 @@ h5{
   /* styles to be added here */
   width: 125px;
 }
+
+#team p {
+  /* styles to be defined here */
+  width: 60%;
+  margin: 10px auto;
+}
+
+#team hr {
+  /* styles to be defined here */
+margin: 20px auto 30px auto;
+width: 40%;
+}
+
 
 .footer{
   font-size: 1.9em;

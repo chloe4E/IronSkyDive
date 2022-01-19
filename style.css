@@ -74,7 +74,8 @@ h5{
 .nav-bar {
   background-color: rgb(25, 33, 41);
   padding-top: 14px;
-  padding-bottom: 14px
+  padding-bottom: 14px;
+
 }
 .nav-bar a{
   background-color:rgb(25, 33, 41);
@@ -85,7 +86,9 @@ h5{
 
 .nav-bar-ul{
   width: 1200px;
-  margin: 0 auto
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .nav-bar-ul li {

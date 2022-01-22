@@ -169,6 +169,16 @@ h5{
 
 }
 
+#structure > div {
+  /* these styles are for all divs 
+     inside section with id structure */
+     display: flex;
+     justify-content: space-between;
+     flex-direction: row;
+     flex-wrap: wrap;
+}
+
+
 #team .section-text {
   font-size: 1.9em;
   text-align: center;
